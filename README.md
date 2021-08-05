@@ -7,5 +7,5 @@
 [![Golang](https://img.shields.io/badge/Golang-%20?&logo=go&logoColor=white&color=00a7d0)](#)
 [![Python](https://img.shields.io/badge/Python-%20?&logo=python&logoColor=white&color=3877ad)](#)
 [![Javascript](https://img.shields.io/badge/Javascript-%20?&logo=javascript&logoColor=white&color=efd81d)](#)
-[![PHP](https://img.shields.io/badge/php-%20?logo=php&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/java-ED8B00?logo=java&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-%20?logo=php&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](#)
