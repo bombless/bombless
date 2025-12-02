@@ -1,7 +1,4 @@
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bombless&show_icons=true&theme=dark&hide=issues,contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bombless&layout=compact&langs_count=6&theme=dark)
 
 [![Rust](https://img.shields.io/badge/Rust-%20?logoColor=white&logo=rust&color=000000)](#)
 [![Golang](https://img.shields.io/badge/Golang-%20?&logo=go&logoColor=white&color=00a7d0)](#)
